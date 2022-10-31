@@ -1,0 +1,24 @@
+.b-example-divider {
+  height: 10px;
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+.leftAlign {
+  position: relative;
+  right: 10%;
+  bottom: 180px;
+}
+
+.pics {
+  opacity: 0.9;
+  position: relative;
+  bottom: 50px;
+  border-radius: 10px;
+}
+
+main {
+  background-color:rgb(129, 156, 248);
+}
